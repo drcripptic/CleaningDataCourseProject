@@ -1,4 +1,1 @@
-CleaningDataCourseProject
-=========================
-
-Course project fr Getting and Cleaning Data
+The code in this repo
