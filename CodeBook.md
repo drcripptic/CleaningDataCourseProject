@@ -1,5 +1,7 @@
-Original Data
+# Codebook
 
-Transformations Applied
+## Original Data
 
-Variables
+## Transformations Applied
+
+## Variables
