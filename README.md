@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The goal of this project was to tidy and reshape data collected from gyroscope and accelerometer output from users of Samsung Galaxy II smartphones. These users carried out a limited set of 6 activities (walking, walking up stairs, walking down stairs, sitting, standing, laying) while carrying their smartphones. Labelling was done by hand by examing videos. A summary of the original data can be found at (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+The goal of this project was to tidy and reshape data collected from gyroscope and accelerometer output from users of Samsung Galaxy II smartphones. These users carried out a limited set of 6 activities (walking, walking up stairs, walking down stairs, sitting, standing, laying) while carrying their smartphones. Labelling was done by hand by examing videos. A summary of the original data can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 ## Contents of Repo
 
