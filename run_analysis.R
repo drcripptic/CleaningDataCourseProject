@@ -40,6 +40,7 @@ tempNames <- gsub("^t", "time", tempNames)
 tempNames <- gsub("Acc", "Accelerometer", tempNames)
 tempNames <- gsub("Gyro", "Gyroscope", tempNames)
 tempNames <- gsub("Mag", "Magnitude", tempNames)
+tempNames <- gsub("BodyBody", "Body", tempNames)
 names(data) <- tempNames
 
 ## melt and dcast to get summary
