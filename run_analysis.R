@@ -1,5 +1,4 @@
-## load plyr
-library(plyr)
+## load reshape2
 library(reshape2)
 
 ##load data
