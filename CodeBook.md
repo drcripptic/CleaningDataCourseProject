@@ -38,6 +38,7 @@ The variables are the means and standard deviations of these quantities, with me
 * frequencyBodyAccelerometerJerk
 * frequencyBodyGyroscope
 * frequencyBodyGyroscopeJerk (magnitude only)
+
 Note the following:
 * Body refers to the fact that effect of Earth's gravitational field has been removed from measurement.
 * Jerk refers to the derivative of the acceleration (accelerometer) or angular velocity (gyroscope)
